@@ -30,12 +30,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
----
 
 ### My GitHub Stats :
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=razabinashraf&count_private=true&show_icons=true&theme=dark&hide=prs,issues)](https://github.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razabinashraf&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=razabinashraf&repo=django_basics&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=razabinashraf&count_private=true&show_icons=true&theme=dark&hide=prs,issues)](https://github.com/razabinashraf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razabinashraf&layout=compact&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=razabinashraf&repo=django_basics&theme=dark)](https://github.com/razabinashraf/django_basics)
 
 
 [twitter]: https://twitter.com/ilthumish
