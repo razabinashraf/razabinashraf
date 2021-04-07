@@ -17,16 +17,16 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/64091576/113855672-f2059f80-97bd-11eb-831d-277a6580da13.png" />
-<img align="left" alt="PHP" width="30px" src="https://user-images.githubusercontent.com/64091576/113856144-79eba980-97be-11eb-928a-4f6e80809fcf.png" />
 <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/64091576/113856621-23329f80-97bf-11eb-9950-562b0020309c.png" />
 <img align="left" alt="C++" width="30px" src="https://user-images.githubusercontent.com/64091576/113856625-24fc6300-97bf-11eb-8f3d-5c5f232f3a0e.png" />
-<img align="left" alt="C" width="30px" src="https://user-images.githubusercontent.com/64091576/113856633-27f75380-97bf-11eb-945a-52befb50e340.jpg" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" width="30px" src="https://user-images.githubusercontent.com/64091576/113856144-79eba980-97be-11eb-928a-4f6e80809fcf.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="C" width="30px" src="https://user-images.githubusercontent.com/64091576/113856633-27f75380-97bf-11eb-945a-52befb50e340.jpg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
