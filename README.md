@@ -5,7 +5,7 @@
 - Intern at Centrric Innovations Pvt. Ltd.
 - Focusing on Backend 
 - I’m looking to collaborate with other content creators
-- 2020 Goals: Contribute more to Open Source projects
+- 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,7 +33,7 @@
 
 ### My GitHub Stats :
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=razabinashraf&count_private=true&show_icons=true&theme=dark&hide=prs,issues)](https://github.com/razabinashraf)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razabinashraf&layout=compact&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razabinashraf&layout=compact&theme=dark)](https://github.com/razabinashraf/django_basics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=razabinashraf&repo=django_basics&theme=dark)](https://github.com/razabinashraf/django_basics)
 
 
