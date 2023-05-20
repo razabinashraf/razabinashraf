@@ -5,7 +5,7 @@
 - Intern at Centrric Innovations Pvt. Ltd.
 - Focusing on Backend 
 - I’m looking to collaborate with other content creators
-- 2021 Goals: Contribute more to Open Source projects
+- 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
